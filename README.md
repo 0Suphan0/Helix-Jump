@@ -1,2 +1,2 @@
 # Helix Jump
- Helix Jump Oyunu replika çalışması.
+Replica of Helix Jump.
